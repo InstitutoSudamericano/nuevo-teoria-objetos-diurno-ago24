@@ -4,6 +4,8 @@ by: Calle Alex, Tinoco Luis
 
 youtube-Alex: <https://youtu.be/tLvGcSs5dvI>
 
+youtube-Luis: <https://www.youtube.com/watch?v=ssy8ajVkVbU>
+
 ## 1. `@Controller('cats')`
 
 - **Descripción**: Este decorador se utiliza para definir una clase como un controlador en NestJS.

@@ -2,7 +2,7 @@
 
 youtube="<https://youtu.be/ZU9kbPPmurU>"
 
-youtube-Luis: <https://youtu.be/DVZZJ7PLFTA>
+youtube-Luis: <https://youtu.be/DGZmZM6lrpI?feature=shared>
 
 Un ORM (Object Relational Mapping) es un patrón de diseño que permite a los programadores interactuar con bases de datos relacionales utilizando objetos de programación. En lugar de escribir consultas SQL para acceder y manipular la base de datos, el ORM se encarga de traducir las operaciones en lenguaje natural (como crear, leer, actualizar y eliminar) en consultas SQL.
 
