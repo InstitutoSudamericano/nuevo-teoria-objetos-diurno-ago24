@@ -1,4 +1,4 @@
-# Formularios en Angular con Ng-zorro de Ant-design
+# Formularios en Angular con Ng-zorro
 
 ## 1. Introducción
 
@@ -199,3 +199,5 @@ Ng-zorro proporciona una manera elegante y eficiente de manejar formularios en A
 - Studocu. (s. f.). Angular y NG- Zorro - { Nombre: Clemente Eduardo Vasquez Reyes Carrera: Ing. Informática Asignatura: - StudoCU. https://www.studocu.com/es-mx/document/universidad-del-valle-de-mexico/programacion/angular-y-ng-zorro/28385204
 
 ### Pull Request
+
+![PullRequest](PullRequest-Forms.jpg)
