@@ -1,5 +1,9 @@
 # Formularios en Angular con Ng-zorro
 
+### Nathaly Caballero: https://youtu.be/S_QTBHTMlF0
+
+### David Correa: https://youtu.be/dfpWtfheBGg
+
 ## 1. Introducción
 
 Ng-zorro es una biblioteca de componentes UI basada en Ant-design para Angular. Facilita la creación de interfaces de usuario atractivas y funcionales. En el contexto de formularios, Ng-zorro proporciona una variedad de componentes que hacen que la creación y gestión de formularios sea más sencilla y estéticamente agradable.
@@ -201,3 +205,4 @@ Ng-zorro proporciona una manera elegante y eficiente de manejar formularios en A
 ### Pull Request
 
 ![PullRequest](PullRequest-Forms.jpg)
+![PullRequest](PullRequest-Forms-Preguntas.jpg)
